@@ -18,6 +18,7 @@
   "eqnull": true,
   "browser": true,
   "worker": true,
+  "node": true,
   "globals": {
     "JSON": false,
     "URLSearchParams": false
